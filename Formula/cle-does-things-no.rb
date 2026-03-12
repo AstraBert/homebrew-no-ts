@@ -3,8 +3,8 @@ require "language/node"
 class CleDoesThingsNo < Formula
   desc "The 'no' command is the same as the 'yes' command, but it prints 'n'"
   homepage "https://github.com/AstraBert/no-ts#readme"
-  url "https://registry.npmjs.org/@cle-does-things/no/-/no-0.1.1.tgz"
-  sha256 "f3ccad02ec5d2faa15a307cfd6ac419eb69e4d19ca8f4cb4cac30dd26aec4bdd"
+  url "https://registry.npmjs.org/@cle-does-things/no/-/no-0.2.1.tgz"
+  sha256 "36c05caff5452e64d7e11a81145e62321d8c046f43e4010026dfdb93efea8441"
   license "MIT"
 
   livecheck do
